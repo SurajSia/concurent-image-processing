@@ -55,6 +55,25 @@ Replace the content with the following:
 }
 
 ```
+###5. Manage Input and Output Images
+
+Ensure your project directory is structured to handle images appropriately:
+
+    images/: This folder should contain your input images.
+    output/: This folder should be used for storing processed images.
+```css
+your_project/
+├── Cargo.toml
+├── src/
+│   └── main.rs
+├── images/
+│   ├── input1.png
+│   └── input2.png
+└── output/
+    ├── output1.png
+    └── output2.png
+```
+    
 ##[example input image](https://github.com/SurajSia/concurent-image-processing/blob/main/images/Barbie%20The%20Movie%20(2023).jpeg)
 
 ![Barbie The Movie (2023)](https://github.com/user-attachments/assets/f6faa5a9-b4ef-4e9f-9007-87cdb33f0107)
