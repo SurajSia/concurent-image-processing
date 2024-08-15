@@ -26,7 +26,7 @@ To add Rust support:
 
 1. Open Sublime Text.
 2. Navigate to **Tools > Build System > New Build System**.
-
+3. Replace the "working_dir" with your actual system folder location..
 Replace the content with the following:
 
 ```json
