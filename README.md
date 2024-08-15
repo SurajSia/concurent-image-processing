@@ -27,6 +27,17 @@ To add Rust support:
 1. Open Sublime Text.
 2. Navigate to **Tools > Build System > New Build System**.
 3. Replace the "working_dir" with your actual system folder location..
+4. ### File-Structure of your project after exeucting must be like this...
+```css
+concurent-image-processing/
+├── Cargo.toml
+├── src/
+│   └── main.rs
+├── images/
+│   ├── input1.png
+│   └── input2.png
+
+```
 Replace the content with the following:
 
 ```json
@@ -65,9 +76,9 @@ And then after adding the new build system with the above json file type CTRL+'B
 ### 5. Manage Input and Output Images
 
 Ensure your project directory is structured to handle images appropriately:
-### File-Structure of your project must be like this...
+### File-Structure of your project after exeucting must be like this...
 ```css
-your_project/
+concurent-image-processing/
 ├── Cargo.toml
 ├── src/
 │   └── main.rs
@@ -75,8 +86,13 @@ your_project/
 │   ├── input1.png
 │   └── input2.png
 └── output/
-    ├── output1.png
-    └── output2.png
+|   ├── output1.png
+|   └── output2.png
+├── Cargo.lock
+├── target
+    ├── debug
+        CACHEDIR.TAG
+        .rustc_info.json
 ```
 Input Directory are containing images uploaded by me , you can add your own images and run the project-folder..
 Ouput Directory will be automatically generated after executing the project-folder..
