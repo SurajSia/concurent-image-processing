@@ -1,4 +1,6 @@
-# Project Setup and Build Instructions
+# concurent-image-processing using rust
+
+## Project Setup and Build Instructions
 
 ## Download the project using git i.e.,
 ```git
