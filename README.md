@@ -59,6 +59,9 @@ Replace the content with the following:
 }
 
 ```
+And then after adding the new build system with the above json file type CTRL+'B' to build the project directory..
+
+
 ### 5. Manage Input and Output Images
 
 Ensure your project directory is structured to handle images appropriately:
