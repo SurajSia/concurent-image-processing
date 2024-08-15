@@ -1,10 +1,10 @@
 # Project Setup and Build Instructions
 
-## Setting Up Sublime Text for Rust
 ## Download the project using git i.e.,
 ```git
 https://github.com/SurajSia/concurent-image-processing.git
 ```
+## Setting Up Sublime Text for Rust
 
 ### 1. Install Rust
 
