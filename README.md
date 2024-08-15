@@ -58,9 +58,7 @@ Replace the content with the following:
 ### 5. Manage Input and Output Images
 
 Ensure your project directory is structured to handle images appropriately:
-
-    images/: This folder should contain your input images.
-    output/: This folder should be used for storing processed images.
+### File-Structure of your project must be like this...
 ```css
 your_project/
 ├── Cargo.toml
@@ -73,6 +71,8 @@ your_project/
     ├── output1.png
     └── output2.png
 ```
+Input Directory are containing images uploaded by me , you can add your own images and run the project-folder..
+Ouput Directory will be automatically generated after executing the project-folder..
     
 ### [example input image](https://github.com/SurajSia/concurent-image-processing/blob/main/images/Barbie%20The%20Movie%20(2023).jpeg)
 
@@ -81,6 +81,10 @@ your_project/
 ### [example output image]
 
 ![Barbie The Movie (2023)](https://github.com/user-attachments/assets/9e224ab0-74e4-435a-983a-9e00513945a3)
+
+### We Can see the diff between @BarbieMargoRobbie 😇 & @BarbenheimmerMargoRobbie 🙂
+
+
 
 
 
