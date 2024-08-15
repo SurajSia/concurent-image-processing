@@ -53,3 +53,5 @@ Replace the content with the following:
         }
     ]
 }
+
+![Example Input Image]()
