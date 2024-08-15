@@ -55,7 +55,7 @@ Replace the content with the following:
 }
 
 ```
-###5. Manage Input and Output Images
+### 5. Manage Input and Output Images
 
 Ensure your project directory is structured to handle images appropriately:
 
