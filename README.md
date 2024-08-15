@@ -54,4 +54,5 @@ Replace the content with the following:
     ]
 }
 
-![Example Input Image](https://github.com/SurajSia/concurent-image-processing/blob/main/images/Barbie%20The%20Movie%20(2023).jpeg)
+```
+##[example input image](https://github.com/SurajSia/concurent-image-processing/blob/main/images/Barbie%20The%20Movie%20(2023).jpeg)
