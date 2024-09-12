@@ -109,6 +109,13 @@ Ouput Directory will be automatically generated after executing the project-fold
 
 ### We Can see the diff between @BarbieMargoRobbie 😇 & @BarbenheimmerMargoRobbie 🙂
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SurajSia/my-license/blob/main/README.md) file for details.
+
+---
+
+MIT License
 
 
 
